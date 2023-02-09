@@ -2,7 +2,6 @@
 
 Just a barebone Astro starter with React integration. No opinionated architecture or fancy feature.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
 [![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/github/bytrangle/astro-react)
 
 ## 🚀 Project Structure
